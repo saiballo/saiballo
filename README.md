@@ -11,5 +11,3 @@ const saibal = {
   OS: "Linux"
 };
 ```
-
-
